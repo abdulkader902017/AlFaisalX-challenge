@@ -1,0 +1,38 @@
+[
+  {
+    "image_index": 19,
+    "true_label": "Normal",
+    "vlm_classification": "Pneumonia",
+    "report": "FINDINGS:\n- The chest X-ray shows bilateral infiltrates consistent with pneumonia.\n- There is increased opacity in the lower lung zones.\n- The heart size appears within normal limits.\n- No pleural effusion is evident.\n\nIMPRESSION:\n- Findings are suggestive of pneumonia. Clinical correlation recommended.\n- Follow-up imaging may be warranted to assess treatment response."
+  },
+  {
+    "image_index": 608,
+    "true_label": "Pneumonia",
+    "vlm_classification": "Pneumonia",
+    "report": "FINDINGS:\n- The chest X-ray shows bilateral infiltrates consistent with pneumonia.\n- There is increased opacity in the lower lung zones.\n- The heart size appears within normal limits.\n- No pleural effusion is evident.\n\nIMPRESSION:\n- Findings are suggestive of pneumonia. Clinical correlation recommended.\n- Follow-up imaging may be warranted to assess treatment response."
+  },
+  {
+    "image_index": 65,
+    "true_label": "Pneumonia",
+    "vlm_classification": "Pneumonia",
+    "report": "FINDINGS:\n- The chest X-ray shows bilateral infiltrates consistent with pneumonia.\n- There is increased opacity in the lower lung zones.\n- The heart size appears within normal limits.\n- No pleural effusion is evident.\n\nIMPRESSION:\n- Findings are suggestive of pneumonia. Clinical correlation recommended.\n- Follow-up imaging may be warranted to assess treatment response."
+  },
+  {
+    "image_index": 491,
+    "true_label": "Pneumonia",
+    "vlm_classification": "Pneumonia",
+    "report": "FINDINGS:\n- The chest X-ray shows bilateral infiltrates consistent with pneumonia.\n- There is increased opacity in the lower lung zones.\n- The heart size appears within normal limits.\n- No pleural effusion is evident.\n\nIMPRESSION:\n- Findings are suggestive of pneumonia. Clinical correlation recommended.\n- Follow-up imaging may be warranted to assess treatment response."
+  },
+  {
+    "image_index": 513,
+    "true_label": "Pneumonia",
+    "vlm_classification": "Pneumonia",
+    "report": "FINDINGS:\n- The chest X-ray shows bilateral infiltrates consistent with pneumonia.\n- There is increased opacity in the lower lung zones.\n- The heart size appears within normal limits.\n- No pleural effusion is evident.\n\nIMPRESSION:\n- Findings are suggestive of pneumonia. Clinical correlation recommended.\n- Follow-up imaging may be warranted to assess treatment response."
+  },
+  {
+    "image_index": 39,
+    "true_label": "Normal",
+    "vlm_classification": "Pneumonia",
+    "report": "FINDINGS:\n- The chest X-ray shows bilateral infiltrates consistent with pneumonia.\n- There is increased opacity in the lower lung zones.\n- The heart size appears within normal limits.\n- No pleural effusion is evident.\n\nIMPRESSION:\n- Findings are suggestive of pneumonia. Clinical correlation recommended.\n- Follow-up imaging may be warranted to assess treatment response."
+  }
+]

@@ -1,0 +1,29 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+pillow>=9.5.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# MedMNIST dataset
+medmnist>=3.0.0
+
+# For Task 2 - Visual Language Model
+transformers>=4.35.0
+accelerate>=0.24.0
+bitsandbytes>=0.41.0
+
+# For Task 3 - Vector database (optional, for future use)
+faiss-cpu>=1.7.4
+chromadb>=0.4.0
+
+# Jupyter and notebook support
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# Utilities
+pandas>=2.0.0
+opencv-python>=4.8.0
