@@ -18,6 +18,17 @@ For this pneumonia classification task, we selected **ResNet-18** as our primary
    - Faster convergence
    - Better generalization with limited medical data
    - Transfer of low-level feature detectors (edges, textures) that are universally applicable
+## Model Weights Availability
+
+**Important:** The trained model file (`best_model.pth`, 100MB) exceeds GitHub's file size limits.  
+**Download Link:** [OneDrive - best_model.pth (100MB)](https://lauedu74602-my.sharepoint.com/:u:/g/personal/abedelkader_helwan_lau_edu_lb/IQAfdqbdCsclQqUC4E6vHkEIAZ-_XVy0d_nFzubbaFYLYEA?e=qhNPcG)
+
+### Setup Instructions
+
+1. Download `best_model.pth` from the OneDrive link above
+2. Place the file in the `models/` directory
+3. Verify the path: `models/best_model.pth`
+4. Run evaluation: `python task1_classification/evaluate.py`
 
 3. **Computational Efficiency**: ResNet-18 strikes an excellent balance between:
    - Model capacity (sufficient for 28×28 images)
